@@ -18,5 +18,12 @@ In this session, we explore Hierarchical Attention Networks (HAN), a model desig
 - **Goal:** Implement and experiment with HANs for text classification tasks.
 - **Key Topics:** Hierarchical architecture, word/sentence-level attention, document classification.
 
+### Lab2 - Transfer Learning for NLP
+In this session, we explore the transformer (encoder only) architecture. We construct our model with a base transformer model, and a classification head, which is used to pretrain the model, and then changed to fine tune it for sentiment analysis.
+
+- **Goal**: Implement and experiment with transformers, for pretraining and fine tuning
+- **Key Topics**: Transformer, Encoder, Transfer Learning
+
+
 ### Future Labs
 Further TPs will cover other advanced AI topics for text and graph data.
