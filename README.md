@@ -5,7 +5,8 @@ This repository contains the lab sessions for the ALTEGRAD course, taught by M. 
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Lab Sessions](#lab-sessions)
-  - [TP1 - Hierarchical Attention Networks (HAN)](#tp1---hierarchical-attention-networks-han)
+  - [TP1 - Hierarchical Attention Networks (HAN)](#lab1---hierarchical-attention-networks-han)
+  - [TP2 - Transfer Learning for NLP](#lab2---transfer-learning-for-nlp)
 
 ## Course Overview
 The ALTEGRAD course dives deep into advanced AI methods designed to handle and process complex data types, specifically textual and graph-based data. The goal is to provide hands-on experience with cutting-edge models and algorithms used in these fields.
@@ -21,8 +22,17 @@ In this session, we explore Hierarchical Attention Networks (HAN), a model desig
 ### Lab2 - Transfer Learning for NLP
 In this session, we explore the transformer (encoder only) architecture. We construct our model with a base transformer model, and a classification head, which is used to pretrain the model, and then changed to fine tune it for sentiment analysis.
 
+### Lab3 - Large Language Models
 - **Goal**: Implement and experiment with transformers, for pretraining and fine tuning
 - **Key Topics**: Transformer, Encoder, Transfer Learning
+
+### Lab4 - Machine Learning for Graphs
+- **Goal**: 
+- **Key Topics**: 
+
+### Lab5 - Deep Learning for Graphs I
+
+### Lab6 - Deep Learning for Graphs II
 
 
 ### Future Labs
